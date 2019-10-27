@@ -1,3 +1,4 @@
 *.bc filter=lfs diff=lfs merge=lfs -text
 *build.bc filter=lfs diff=lfs merge=lfs -text
 linkresult_2376649BBB1C8D45DCA9A999E475CD24 filter=lfs diff=lfs merge=lfs -text
+linkresult_2376649BBB1C8D45DCA9A999E475CD24/** filter=lfs diff=lfs merge=lfs -text
